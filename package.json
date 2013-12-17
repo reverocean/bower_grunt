@@ -1,0 +1,43 @@
+{
+  "name": "bower_grunt",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Haiyang",
+  "license": "BSD",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt-contrib-htmlmin": "~0.1.3",
+    "grunt-contrib-imagemin": "~0.3.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-shell": "~0.2.2",
+    "grunt-open": "~0.2.2",
+    "grunt-contrib-connect": "~0.1.2",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-cssmin ": "~0.7.0",
+    "grunt-karma": "~0.6.2",
+    "karma": "~0.10.2",
+    "karma-mocha": "latest",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-safari-launcher": "latest",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-ng-scenario": "latest",
+    "chai": "1.4.0",
+    "karma-script-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.3",
+    "karma-requirejs": "~0.1.0",
+    "karma-coffee-preprocessor": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0"
+  }
+}
